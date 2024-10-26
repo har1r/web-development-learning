@@ -3,3 +3,5 @@ Semua tentang Git dan GitHUb :
 - bisa berkerja sendiri-sendiri atau bareng-bareng
 - memudahan untuk menyimpan dan mengelola source code kita
 - lebih efisien
+- memangkas konflik
+- murah untuk digunakan
